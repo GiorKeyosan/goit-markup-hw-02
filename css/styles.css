@@ -197,3 +197,52 @@ color: var(--secondary-black-color)
         letter-spacing: 0.02em;
         color: var(--primary-white-color)
 }
+/**-----------------------PORTFOLIO HTML--------------------------*/
+.buttons-list {
+    list-style-type: none;
+}
+.buttons-list-item {
+}
+.buttons-list-btn {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color: #4D5AE5;
+}
+.buttons-list-allbtn {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+color:#FFFFFF;
+}
+
+
+.portfolio-list {
+
+    list-style-type: none;
+}
+.portfolio-item {
+}
+.portfolio-item-title {
+    font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: var(--primary-black-color)
+}
+.portfolio-item-type {
+    font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: var(--secondary-black-color)
+}
