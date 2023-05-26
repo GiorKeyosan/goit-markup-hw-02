@@ -43,6 +43,10 @@ background-color: var(--page-background-colour);
 
     color: var(--primary-black-color);
 }
+.span-header {
+
+    color: var(--primary-black-color);
+}
 
 .header-menu {
     list-style-type: none;
@@ -92,7 +96,7 @@ background-color: var(--page-background-colour);
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    
+    text-align: center;
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
@@ -108,7 +112,13 @@ color:#FFFFFF;
 background-color: #4D5AE5;
 cursor: pointer;
 }
+.btn:hover{
+    background-color: #404BBF;
+}
 
+.btn:focus{
+    background-color: #404BBF;
+}
 
 .benefits {
 }
@@ -136,6 +146,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 color: var(--primary-black-color);
 }
 .activity-list {
@@ -156,6 +167,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 color: var(--primary-black-color);
 }
 .team-list {
