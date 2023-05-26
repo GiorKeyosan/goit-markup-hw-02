@@ -1,6 +1,6 @@
 body {
 font-family: 'Roboto', sans-serif;
-color: var(--secondary-black-color)
+color: var(--secondary-black-color);
 background-color: var(--page-background-colour);
 
 }
@@ -19,7 +19,7 @@ background-color: var(--page-background-colour);
  }
 
  .list {
-    list-style: none
+    list-style: none;
  }
 /**-------------------HEADER---------------------------*/
 
@@ -42,7 +42,7 @@ background-color: var(--page-background-colour);
 
 .header-logo span {
 
-    color: var(--primary-black-color)
+    color: var(--primary-black-color);
 }
 
 .header-menu {
@@ -59,7 +59,7 @@ background-color: var(--page-background-colour);
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-decoration: none;
-        color: var(--primary-black-color)
+        color: var(--primary-black-color);
 }
 .header-menu-link:hover, .header-menu-link:focus {
     color: #404BBF;
@@ -82,7 +82,7 @@ background-color: var(--page-background-colour);
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-decoration: none;
-        color: var(--secondary-black-color)
+        color: var(--secondary-black-color);
 
 }
 .contacts-link:hover, .contacts-link:focus {
@@ -125,13 +125,13 @@ cursor: pointer;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-color: var(--primary-black-color)
+color: var(--primary-black-color);
 }
 .benefits-item-text {
     font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--secondary-black-color)
+color: var(--secondary-black-color);
 }
 
 
@@ -163,7 +163,7 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-color: var(--primary-black-color)
+color: var(--primary-black-color);
 }
 .team-list {
     list-style-type: none;
@@ -176,19 +176,19 @@ color: var(--primary-black-color)
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-color: var(--primary-black-color)
+color: var(--primary-black-color);
 }
 .team-item-prof {
     font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--secondary-black-color)
+color: var(--secondary-black-color);
 }
 
 
 /**-----------------------FOOTER--------------------------*/
 .footer {
-    background-color:var(--primary-black-color)
+    background-color:var(--primary-black-color);
 }
 
 .footer-logo {
@@ -200,7 +200,7 @@ color: var(--secondary-black-color)
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
-    color: var(--company-blue-color)
+    color: var(--company-blue-color);
 }
 
 .footer-logo span {
@@ -230,8 +230,8 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--company-blue-color);
-background-color:var(--primary-white-color)
-cursor: pointer
+background-color:var(--primary-white-color);
+cursor: pointer;
 }
 .buttons-list-btn:hover, .buttons-list-btn:focus {
     color: #FFFFFF;
