@@ -33,7 +33,6 @@ background-color: var(--page-background-colour);
     font-weight: 800;
         font-size: 18px;
         line-height: 1.17;
-        align-items: center;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: var(--company-blue-color)
@@ -71,9 +70,6 @@ background-color: var(--page-background-colour);
     font-style: normal;
 }
 
-.contacts-list {
-    list-style-type: none;
-}
 
 .contacts-item {}
 
@@ -96,7 +92,7 @@ background-color: var(--page-background-colour);
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
-    text-align: center;
+    
     letter-spacing: 0.02em;
     color: #FFFFFF;
 }
@@ -110,7 +106,6 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color:#FFFFFF;
 background-color: #4D5AE5;
-background-color: #404BBF;
 cursor: pointer;
 }
 
@@ -139,7 +134,6 @@ color: var(--secondary-black-color);
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
-text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--primary-black-color);
@@ -160,7 +154,6 @@ color: var(--primary-black-color);
     font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
-text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: var(--primary-black-color);
@@ -196,14 +189,13 @@ color: var(--secondary-black-color);
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    align-items: center;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
     color: var(--company-blue-color);
 }
 
-.footer-logo span {
+.span-footer {
 
     color: #f4f4fd;
 }
@@ -226,7 +218,6 @@ font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-align-items: center;
 text-align: center;
 letter-spacing: 0.04em;
 color: var(--company-blue-color);
